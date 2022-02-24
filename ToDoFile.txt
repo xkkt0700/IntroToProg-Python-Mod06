@@ -1,0 +1,3 @@
+vacuum, 4
+clean bedroom, 2
+laundry, 4
